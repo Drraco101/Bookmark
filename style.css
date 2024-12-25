@@ -25,13 +25,13 @@ body{
   position: absolute;
   width: 250px;
   height: 30px;
-  bottom: 93%;
+  bottom: 95%;
   background-color: #f3ff0a;
   transition: height 350ms;
   z-index: -1;
 }
 .main h1:hover::before {
-  height: 60px;
+  height: 55px;
 }
 .updateBtn{
   display: none;
